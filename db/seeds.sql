@@ -70,3 +70,5 @@ VALUES
   ('Hubert', 'Crackanthorpe', 'hcrackan@goodletters.com'),
   ('William', 'Carleton', 'wcarleton@literature.com'),
   ('Gerald', 'Griffin', 'ggriff@lit.net');
+
+  
